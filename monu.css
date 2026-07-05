@@ -1,0 +1,149 @@
+
+*{
+    margin:0px;
+    box-sizing:border-box;
+    
+}
+body{
+    margin:0px 1px 0px 2px;
+}
+
+header{
+    background-color:rgb(25, 133, 228);
+    color:aliceblue;
+    height:100px;
+}
+#logo{
+    padding-top:20px;
+    font-size:35px;
+}
+#sub{
+    font-size:18px;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+#nav{
+    height:40px;
+    background-color:rgb(62, 186, 244);
+    font-size:28px;
+    padding-top:4px;
+    font-family:Garamond, serif;
+}
+#home{
+    text-align:center;
+    font-size:50px;
+    color:black;
+    padding-top:40px;
+    padding-bottom:30px;
+}
+#intro{
+    text-align:center;
+    font-size:22px;
+    padding-bottom:40px;
+}
+
+#abc{
+    text-decoration:none;
+    color:rgb(2, 28, 156);
+    margin-left:550px;
+    font-weight:bold;
+}
+#bc{
+    text-decoration:none;
+    color:rgb(2, 28, 156);
+    margin-left:15px;
+    font-weight:bold;
+}
+#panel{
+    background-color:rgb(237, 233, 233);
+}
+#mat{
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:40px;
+    font-size:30px;
+}
+#re{
+    font-size:30px;
+    text-decoration:none;
+    color:rgb(30, 56, 133);
+}
+
+#t{
+    display:inline-block;
+    margin-left:90px;
+    text-align:center;
+    background-color:rgb(206, 206, 206);
+    padding:20px 50px 20px 53px;
+    border-radius:2%;
+
+}
+/* #y{
+    display:inline-block;
+    margin-left:86px;
+    text-align:center;
+    background:rgb(73, 231, 255);
+    padding:20px 67px 20px 56px;
+    border-radius:2%;
+    
+}
+#u{
+    display:inline-block;
+    margin-left:430px;
+    text-align:center;
+    background:rgb(73, 231, 255);
+    margin-top:30px;
+    padding:20px 50px 20px 53px;
+    border-radius:2%;
+    margin-bottom:80px;
+}
+#i{
+    display:inline-block;
+    margin-left:90px;
+    text-align:center;
+    background: rgb(73, 231, 255);
+    margin-top:30px;
+    padding:20px 50px 20px 53px;
+    border-radius:2%;
+} */
+
+#par{
+    height:20px;
+    padding-top:5px;
+}
+#le{
+    text-align:center;
+    margin-top:40px;
+    font-size:30px;
+}
+#links{
+    color:black;
+    display:inline-block;
+    margin-left:200px;
+    text-align:center;
+    background-color:rgb(206, 206, 206);
+    padding:20px 50px 20px 53px;
+    border-radius:2%;
+    margin-top:50px;
+    font-size:28px;
+    text-decoration:none;
+}
+#co{
+    text-align:center;
+    margin:50px 0px 20px 0px;
+    font-size:28px;
+}
+#info{
+    background-color:rgb(250, 245, 245);
+    font-size:20px;
+    text-align: center;
+    width:500px;
+    margin-left:530px;
+}
+#m{
+    margin-top:30px;
+    background-color:black;
+    color:aliceblue;
+    height:30px;
+    padding-top:5px;
+}

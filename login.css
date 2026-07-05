@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    box-sizing:border-box;
+    background-color:rgb(228, 215, 215)
+    
+}
+div{
+    text-align:center;
+    font-size:25px;
+    background-color:rgb(208, 163, 167);
+    width:600px;
+    border-radius:2%;
+    margin:140px 0px 0px 490px;
+    height:420px;
+    padding:50px;
+}
+#fo{
+    background-color:rgb(208, 163, 167);
+    margin-top:30px;
+
+}
+#bu{
+    margin-top:30px;
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
